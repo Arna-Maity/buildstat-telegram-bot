@@ -6,3 +6,7 @@
 ## (Week 0, Day 1)
  - Setup some basic boilerplate node.js code.
  - Made a rudimentary Bot to send 'Hello' in response to '/start' command.
+
+## (Week 0, Day 4)
+ - Setup npm commands for linting & formating code.
+ - Setup eslint config for linting code.
