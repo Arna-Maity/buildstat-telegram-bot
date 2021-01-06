@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Arna-Maity/buildstat-telegram-bot#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "node-telegram-bot-api": "^0.50.0"
   },
   "devDependencies": {
